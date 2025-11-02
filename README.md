@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="/images/argos_logos/logo.png" alt="Argos logo" width="160" />
+	<img src="app/public/images/argos_logos/logo.png" alt="Argos logo" width="160" />
 </p>
 
 # Argos — Plateforme de lecture de mangas en ligne
