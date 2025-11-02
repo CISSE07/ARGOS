@@ -1,4 +1,8 @@
-# 🌌 Argos — Plateforme de lecture de mangas en ligne
+<p align="center">
+	<img src="/images/argos_logos/logo.png" alt="Argos logo" width="160" />
+</p>
+
+# Argos — Plateforme de lecture de mangas en ligne
 
 Bienvenue sur **Argos**, une application web moderne permettant de **lire, découvrir et suivre des mangas** en ligne.  
 Développé avec **Next.js (App Router)**, **TypeScript** et **Tailwind CSS**, Argos met l'accent sur la performance, l'expérience utilisateur et une architecture claire pour l'apprentissage et la scalabilité.
